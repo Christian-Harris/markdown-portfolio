@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Things I like
+* Games
+* Code
+* Reading
+* Denali
+* Wifey
